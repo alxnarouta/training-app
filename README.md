@@ -1,2 +1,3 @@
 # training-app
 Ajout du fichier README ....
+Test git pull commande.
